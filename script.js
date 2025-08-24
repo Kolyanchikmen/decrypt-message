@@ -26,7 +26,7 @@ class EncryptedMessage {
         this.messageText = '';
         this.artText = '';
         this.encryptedDisplayText = '';
-        this.promptText = '\n\nHit Enter To Decrypt...';
+        this.promptText = '\n\nНажми Enter для дешифровки...';
         this.isDecrypting = false;
         this.intervals = [];
         
